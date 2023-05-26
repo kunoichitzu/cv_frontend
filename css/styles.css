@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    text-align: center;
+    padding: 20px;
+    background-color: #E6E6E6;
+}
+
+h1, h3{
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman';
+    color: #005677;
+    padding: 10px;
+    letter-spacing: 6px;
+}
+
+h1{
+    text-align: center;
+    line-height: 84.69%;
+}
+
+
+
+h3{
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    line-height: 84.69%;
+}
+
+b{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.container1{
+    padding: 80px;
+}
+
+ul{
+    padding: 30px;
+}
+
+li{
+    list-style-type: disc;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    line-height: 1.5;
+}
+.divFecha, .divEscuela{
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 5px;
+}
+
+.divFecha{
+    font-weight: bold;
+    font-weight: 700;
+}
+
+footer {
+    background-color: #005677;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 84.69%;
+    font-weight: 700;
+}
+
+footer img{
+    padding-left: 20px;
+}
